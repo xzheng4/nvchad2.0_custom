@@ -23,7 +23,7 @@ git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
 
 ## checkout custom folder
 ```
-git clone https://github.com/xzheng4/nvchad_custom ~/.config/nvim/lua/custom --depth 1
+git clone https://github.com/xzheng4/nvchad2.0_custom ~/.config/nvim/lua/custom --depth 1
 ```
 
 ## config dependence
