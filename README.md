@@ -38,3 +38,9 @@ nvim
 # using mason cmd to install necessary LSP server
 MasonInstall pyright clangd
 ```
+
+## config Nerd font
+```
+brew install font-jetbrains-mono-nerd-font
+```
+oepn item2, and install jetbrains-mono-nerd-font, and setup the font with nerd font
